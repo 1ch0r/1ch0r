@@ -29,7 +29,6 @@ I'm an advocate for free software and individual privacy rights.
 - I can play any stringed instrument with frets.
 - I wrestled as a kid and even trained a little MMA as an adult.
 - I have a skin condition that destroys melanin.
-- My estimated IQ is 145-160. Time pressure reduces it to 125-140.
 - I was first introduced to ethical hacking and Linux at age 13.
 
 ## 📫 Contact Me
