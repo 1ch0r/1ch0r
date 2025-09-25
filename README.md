@@ -28,7 +28,7 @@ on my research development 3 separate times. Personally I am currently using Gen
 - I can play any stringed instrument with frets.
 - I wrestled as a kid and even trained a little MMA as an adult.
 - I have a skin condition that destroys melanin.
-- My estimated IQ is 145-160 with time pressure reducing performance to 125-140.
+- My estimated IQ is 145-160. Time pressure reduces it to 125-140.
 
 ## 📫 Contact Me
 - Email: sp00k@protonmail.com
