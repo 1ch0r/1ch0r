@@ -24,10 +24,11 @@ on my research development 3 separate times. Personally I am currently using Gen
 - Woodworking (CNC Router, CNC Laser)
 - CAD Skills (AutoCAD, Fusion360, Solidworks, PremierArchitect, MotionPRO)
 
-## Fun Facts
+## 🧠 Fun Facts
 - I can play any stringed instrument with frets.
 - I wrestled as a kid and even trained a little MMA as an adult.
 - I have a skin condition that destroys melanin.
+- My estimated IQ is 145-160 with time pressure reducing performance to 125-140.
 
 ## 📫 Contact Me
 - Email: sp00k@protonmail.com
