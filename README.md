@@ -5,15 +5,17 @@ I'm a software engineer, security researcher, and developer. My tech background 
 as I progress in my journey. I've worked on several projects ranging from comprehensive software designed to hack RF systems such as RKE systems and ADS-B transponders
 in planes within the same suite to normal website and application development for small businesses. I'm a public speaker too, having spoken at Commonwealth University
 on my research development 3 separate times. Personally I am currently using Gentoo Linux as my main Operating System with Windows 11 dual booted. 
-I'm an advocate for free software and individual privacy rights. 
+I'm an advocate for free software and individual privacy rights.
 
 ## 🛠️ Tech Stack
-- Languages: C/C++/C#, Python, Java, Rust,Typescript, HTML, CSS, PHP, Javascript, BASH, Arduino
+- Backend: C/C++/C#, Python, Java, Rust, PHP, BASH
+- Frontend: HTML, CSS, Javascript, Typescript
 - Frameworks: React, Node.js, Kotlin, XAMPP, .NET
-- Tools: Docker, Git, Apache Tomcat
+- Tools: Docker, Git, Apache Tomcat, GNU Radio
 - Operating Systems: GNU/Linux, Windows
 
 ## ⚡ Auxillery Skills
+- Cybersecurity
 - Arduino Hardware
 - Digital Signal Processing
 - RF Protocols
