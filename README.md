@@ -27,6 +27,15 @@ I'm an advocate for free software and individual privacy rights.
 - Woodworking (CNC Router, CNC Laser)
 - CAD Skills (AutoCAD, Fusion360, Solidworks, PremierArchitect, MotionPRO)
 
+## 🛠️ OS Stack (This is more for me so I remember what I like using)
+- OS: Gentoo Linux Darkstar
+- WM: devwm
+- Term: st
+- DisplayManager: SLiM
+- Networking: iwd/iwdgtk
+- App Launcher: Rofi
+- Audio: ALSA
+
 ## 🧠 Fun Facts
 - I can play any stringed instrument with frets.
 - I wrestled as a kid and even trained a little MMA as an adult.
