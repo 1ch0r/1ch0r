@@ -1,20 +1,20 @@
 # Hi, I'm Dev. I do many things.
 
-## 🚀 About Me
+##  About Me
 I'm a software engineer, security researcher, and developer. My tech background is originally in ethical hacking and has shifted towards software engineering/development
 as I progress in my journey. I've worked on several projects ranging from comprehensive software designed to hack RF systems such as RKE systems and ADS-B transponders
 in planes within the same suite to normal website and application development for small businesses. I'm a public speaker too, having spoken at Commonwealth University
 on my research development 3 separate times. Personally I am currently using Gentoo Linux as my main Operating System with Windows 11 dual booted. 
 I'm an advocate for free software and individual privacy rights.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - Backend: C/C++/C#, Python, Java, Rust, PHP, BASH
 - Frontend: HTML, CSS, Javascript, Typescript
 - Frameworks: React, Node.js, Kotlin, XAMPP, .NET
 - Tools: Docker, Git, Apache Tomcat, GNU Radio
 - Operating Systems: GNU/Linux, Windows
 
-## ⚡ Auxillery Skills
+##  Auxillery Skills
 - Cybersecurity
 - Arduino Hardware
 - Digital Signal Processing
@@ -27,7 +27,7 @@ I'm an advocate for free software and individual privacy rights.
 - Woodworking (CNC Router, CNC Laser)
 - CAD Skills (AutoCAD, Fusion360, Solidworks, PremierArchitect, MotionPRO)
 
-## 🛠️ OS Stack (This is more for me so I remember what I like using)
+##  OS Stack (This is more for me so I remember what I like using)
 - OS: Gentoo Linux Darkstar
 - WM: devwm
 - Term: st
@@ -36,11 +36,11 @@ I'm an advocate for free software and individual privacy rights.
 - App Launcher: Rofi
 - Audio: ALSA
 
-## 🧠 Fun Facts
+##  Fun Facts
 - I can play any stringed instrument with frets.
 - I wrestled as a kid and even trained a little MMA as an adult.
 - I have a skin condition that destroys melanin.
 - I was first introduced to ethical hacking and Linux at age 13.
 
-## 📫 Contact Me
+##  Contact Me
 - Email: sp00k@protonmail.com
